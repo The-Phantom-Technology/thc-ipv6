@@ -4,7 +4,7 @@ cd /opt/PHANTX
 
 git clone https://github.com/vanhauser-thc/thc-ipv6
 
-cd /opt/PHANTX/thc-hydra
+cd /opt/PHANTX/thc-ipv6
 
 
 if [ $? -eq 0 ]
